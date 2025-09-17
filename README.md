@@ -1,4 +1,4 @@
-# Trilha CSS Hi Happy
+# Trilha CSS - DIO HI HAPPY
 
 Projeto da **Trilha de CSS da DIO**, inspirado na **Hi Happy**. Contém exercícios e exemplos práticos de CSS para criar páginas modernas, coloridas e interativas.
 
