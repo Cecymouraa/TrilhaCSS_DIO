@@ -14,4 +14,10 @@ Projeto da **Trilha de CSS da DIO**, inspirado na **Hi Happy**. Contém exercíc
 ## 📂 Estrutura do Projeto
 - `index.html` → Página principal com exemplos de banner e cards  
 - `style.css` → Todos os estilos aplicados no projeto  
-- `assets/` → Imagens e ícones utilizados  
+- `img/` → Imagens   
+
+<img width="1880" height="823" alt="image" src="https://github.com/user-attachments/assets/87fff479-6473-4f64-a3b4-c35749d0ba0a" />
+<img width="1902" height="587" alt="image" src="https://github.com/user-attachments/assets/548d4ab7-0cdf-4dce-a530-2fa2d072cb28" />
+<img width="1892" height="652" alt="image" src="https://github.com/user-attachments/assets/c6aff3d0-291e-4f86-917e-19f970f3a40b" />
+
+
